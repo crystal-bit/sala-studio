@@ -6,10 +6,10 @@ Periodicamente sarò in live sul [canale YouTube](https://www.youtube.com/c/Crys
 
 - **Fare Code Review**:  
 revisionare codice di un vostro gioco oppure il codice di un tutorial o di un progetto open source, ecc.
-  - [Proponi una Code Review](https://github.com/davcri/studio-session/issues/new?assignees=&labels=code+review&template=proponi-una-code-review.md&title=)
+  - [Proponi una Code Review](https://github.com/crystal-bit/sala-studio/issues/new?assignees=&labels=&template=proponi-una-code-review.md&title=)
 - **Studiare** condividendo conoscenze e motivandoci.  
 Ognuno potrà suggerire dei temi da approfondire come: meccaniche, programmazione, linguaggi, framework, novità, analisi, approfondimenti, ecc. 
-  - [Proponi un argomento](https://github.com/davcri/studio-session/issues/new?assignees=&labels=&template=proponi-un-argomento-di-studio.md&title=%5BAPPROFONDIMENTO%5D)
+  - [Proponi un argomento](https://github.com/crystal-bit/sala-studio/issues/new?assignees=&labels=&template=proponi-un-argomento-di-studio.md&title=)
 - **Q&A**:  
 avremo sempre un piccolo spazio per domande e dubbi in relax.
   - Partecipa alla live e fai domande direttamente in chat!
