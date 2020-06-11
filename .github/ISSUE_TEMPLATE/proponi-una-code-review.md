@@ -2,7 +2,7 @@
 name: Proponi una Code Review
 about: Invia del codice da revisionare e discutere insieme
 title: ''
-labels: ''
+labels: code-review
 assignees: ''
 
 ---

@@ -1,10 +1,10 @@
 ---
 name: Vuoi proporre qualcos'altro?
-about: Fantastico! Descrivi la tua idea.
+about: Nessun problema!
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Cosa vuoi proporre?**
+**Cosa vuoi proporre per la prossima live?**
