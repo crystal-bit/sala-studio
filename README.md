@@ -1,5 +1,3 @@
-# Gruppo di studio
-
 ![pic](https://user-images.githubusercontent.com/6860637/84149556-f1e32900-aa60-11ea-8234-2d15869854d0.png)
 
 Periodicamente sarò in live sul [canale YouTube](https://www.youtube.com/c/CrystalBit) per:
