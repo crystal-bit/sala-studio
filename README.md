@@ -22,10 +22,10 @@ Sul [server Discord](https://discord.gg/SA6S2Db) c'è il canale `#sala-studio` d
   
 ## Lista Episodi
 
-| # | Link                         | Argomenti                                                     | Data (dd/mm/yyyy) |
-|---|------------------------------|---------------------------------------------------------------|-------------------|
-| 0 | https://youtu.be/-jr1kcO3dM8 | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020        |
-| 1 |                              |                                                               |                   |
+| # | Link                         | Argomenti                                                     | Data (dd/mm/yyyy)     |
+|---|------------------------------|---------------------------------------------------------------|-----------------------|
+| 0 | https://youtu.be/-jr1kcO3dM8 | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020            |
+| 1 | https://youtu.be/ifUNaUkNFuc | Bilanciamento nei videogiochi, localizzazione con Godot | 9/07/2020  |
 
 ## Quando ci saranno le live?
 
