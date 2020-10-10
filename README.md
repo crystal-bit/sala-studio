@@ -6,7 +6,7 @@
 
 [Playlist YouTube con tutti gli episodi](https://www.youtube.com/playlist?list=PLaCq3HqKQR6roLY0e3_fDqCzj5PAN2WRw)
 
-| # | Link                         | Argomenti                                                     | Data (dd/mm/yyyy)     |
+| # | Link                         | Argomenti                                                     | Data (d/m/y)     |
 |---|------------------------------|---------------------------------------------------------------|-----------------------|
 | 0 | https://youtu.be/-jr1kcO3dM8 | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020            |
 | 1 | https://youtu.be/ifUNaUkNFuc | Bilanciamento nei videogiochi, localizzazione con Godot | 09/07/2020  |
