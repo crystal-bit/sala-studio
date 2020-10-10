@@ -2,6 +2,16 @@
 
 **Sala Studio** è un appuntamento live stream sul [canale YouTube Crystal Bit](https://www.youtube.com/c/CrystalBit). 
 
+## Lista Episodi
+
+[Playlist YouTube con tutti gli episodi](https://www.youtube.com/playlist?list=PLaCq3HqKQR6roLY0e3_fDqCzj5PAN2WRw)
+
+| # | Link                         | Argomenti                                                     | Data (dd/mm/yyyy)     |
+|---|------------------------------|---------------------------------------------------------------|-----------------------|
+| 0 | https://youtu.be/-jr1kcO3dM8 | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020            |
+| 1 | https://youtu.be/ifUNaUkNFuc | Bilanciamento nei videogiochi, localizzazione con Godot | 09/07/2020  |
+| 2 | https://youtu.be/MNEV1KiqOs0 | Struttura progetto Godot, Line drawing, menu centralizzato | 24/09/2020 | 
+
 Si tratta di uno spazio di studio con la community. Le attività principali saranno:
 
 - **Revisionare codice e progetti [Code Review]**:  
@@ -20,28 +30,10 @@ avremo sempre un piccolo spazio per domande e dubbi in relax.
 
 Sul [server Discord](https://discord.gg/SA6S2Db) c'è il canale `#sala-studio` dedicato a questa iniziativa dove si può continuare la discussione anche al di fuori delle live.
   
-## Lista Episodi
-
-| # | Link                         | Argomenti                                                     | Data (dd/mm/yyyy)     |
-|---|------------------------------|---------------------------------------------------------------|-----------------------|
-| 0 | https://youtu.be/-jr1kcO3dM8 | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020            |
-| 1 | https://youtu.be/ifUNaUkNFuc | Bilanciamento nei videogiochi, localizzazione con Godot | 9/07/2020  |
-
 ## Quando ci saranno le live?
 
-Una o due volte al mese, probabilmente il venerdì sera.
-
-Per rimanere aggiornati sulla programmazione vedete il [canale Telegram](https://t.me/crystalbit).
-
-## Disclaimer
-
-![wip](https://user-images.githubusercontent.com/6860637/84149552-ee4fa200-aa60-11ea-8b53-31c1b7f4c879.png)
-
-> Questo format è in fase sperimentale.
-
-Le prime live serviranno per capire se vale la pena portare avanti questo format, se necessita di modifiche o se invece non è proprio utile a nessuno.
-
-Sentitevi liberi di dare il vostro feedback e le vostre idee. Potete farlo aprendo una issue oppure discutendone sul [server Discord](https://discord.gg/SA6S2Db).
+Una volta al mese.  
+Annuncio la data della live di volta in volta, con qualche giorno di anticipo sul [canale Telegram](https://t.me/crystalbit), così che chi fosse interessato può segnarsi l'evento.
 
 ## Come inviare un progetto 
 
