@@ -1,27 +1,26 @@
 ![pic](https://user-images.githubusercontent.com/6860637/84149556-f1e32900-aa60-11ea-8234-2d15869854d0.png)
 
-**Sala Studio** è un appuntamento live stream sul [canale YouTube Crystal Bit](https://www.youtube.com/c/CrystalBit). 
+**Sala Studio** è un appuntamento live stream sullo sviluppo di videogiochi.  
+Le live hanno cadenza mensile sul [canale YouTube Crystal Bit](https://www.youtube.com/c/CrystalBit). 
 
 ## Lista Episodi
 
 [Playlist YouTube con tutti gli episodi](https://www.youtube.com/playlist?list=PLaCq3HqKQR6roLY0e3_fDqCzj5PAN2WRw)
 
-| # | Link                         | Argomenti                                                     | Data (d/m/y)     |
-|---|------------------------------|---------------------------------------------------------------|-----------------------|
-| 0 | https://youtu.be/-jr1kcO3dM8 | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020            |
-| 1 | https://youtu.be/ifUNaUkNFuc | Bilanciamento nei videogiochi, localizzazione con Godot | 09/07/2020  |
-| 2 | https://youtu.be/MNEV1KiqOs0 | Struttura progetto Godot, Line drawing, menu centralizzato | 24/09/2020 | 
+| Link YouTube                        | Argomenti                                                     | Data (d/m/y)     |
+|------------------------------|---------------------------------------------------------------|-----------------------|
+| [Sala studio #0](https://youtu.be/-jr1kcO3dM8) | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020            |
+| [Sala studio #1](https://youtu.be/ifUNaUkNFuc) | Bilanciamento nei videogiochi, localizzazione con Godot | 09/07/2020  |
+| [Sala studio #2](https://youtu.be/MNEV1KiqOs0) | Struttura progetto Godot, Line drawing, menu centralizzato | 24/09/2020 | 
 
 Si tratta di uno spazio di studio con la community. Le attività principali saranno:
 
-- **Revisionare codice e progetti [Code Review]**:  
-revisionare codice di un vostro gioco oppure il codice di un tutorial o di un progetto open source, ecc.
+- **Revisionare codice e progetti [Code Review]**: se volete farmi revisionare un tutorial oppure un vostro gioco/progetto
   - [Proponi una Code Review](https://github.com/crystal-bit/sala-studio/issues/new?assignees=&labels=&template=proponi-una-code-review.md&title=)
-- **Studiare** condividendo conoscenze e motivandoci.  
-Ognuno potrà suggerire dei temi di gamedev da approfondire come: programmazione, game design, novità, analisi, approfondimenti, paper, ecc. 
+- **Approfondire argomenti** di sviluppo di videogiochi.  
+Alcuni esempi sono: programmazione, game design, nuovi game engine e framework, analisi di mercato, ecc. 
   - [Proponi un argomento](https://github.com/crystal-bit/sala-studio/issues/new?assignees=&labels=&template=proponi-un-argomento-di-studio.md&title=)
-- **Q&A**:  
-avremo sempre un piccolo spazio per domande e dubbi in relax.
+- **Q&A**: durante le live ci sarà sempre spazio per le vostre domande e dubbi.
   - Partecipa alla live e fai domande direttamente in chat!
 
 ## Discuti con la community (Discord)
@@ -33,7 +32,9 @@ Sul [server Discord](https://discord.gg/SA6S2Db) c'è il canale `#sala-studio` d
 ## Quando ci saranno le live?
 
 Una volta al mese.  
-Annuncio la data della live di volta in volta, con qualche giorno di anticipo sul [canale Telegram](https://t.me/crystalbit), così che chi fosse interessato può segnarsi l'evento.
+
+Annuncio la data della live di volta in volta sul [canale Telegram](https://t.me/crystalbit).  
+Le live vengono create con qualche giorno di anticipo come evento su YouTube così che chi è interessato possa impostare una notifica di promemoria.
 
 ## Come inviare un progetto 
 
