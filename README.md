@@ -13,7 +13,7 @@ Le live hanno cadenza mensile sul [canale YouTube Crystal Bit](https://www.youtu
 | [Sala studio #1](https://youtu.be/ifUNaUkNFuc) | Bilanciamento nei videogiochi, localizzazione con Godot | 09/07/2020  |
 | [Sala studio #2](https://youtu.be/MNEV1KiqOs0) | Struttura progetto Godot, Line drawing, menu centralizzato | 24/09/2020 | 
 
-Si tratta di uno spazio di studio con la community. Le attività principali saranno:
+Le attività principali saranno:
 
 - **Revisionare codice e progetti [Code Review]**: se volete farmi revisionare un tutorial oppure un vostro gioco/progetto
   - [Proponi una Code Review](https://github.com/crystal-bit/sala-studio/issues/new?assignees=&labels=&template=proponi-una-code-review.md&title=)
