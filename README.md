@@ -12,6 +12,7 @@ Le live hanno cadenza mensile sul [canale YouTube Crystal Bit](https://www.youtu
 | [Sala studio #0](https://youtu.be/-jr1kcO3dM8) | Presentazione Sala Studio, problemi comuni con Godot Engine 3 | 12/06/2020            |
 | [Sala studio #1](https://youtu.be/ifUNaUkNFuc) | Bilanciamento nei videogiochi, localizzazione con Godot | 09/07/2020  |
 | [Sala studio #2](https://youtu.be/MNEV1KiqOs0) | Struttura progetto Godot, Line drawing, menu centralizzato | 24/09/2020 | 
+| [Sala studio #3](https://youtu.be/pVL9R7Ja80U) | Godot AdMob, Plugin Android e lettura dai sensori smarpthone | 12/11/2020 | 
 
 Le attività principali saranno:
 
