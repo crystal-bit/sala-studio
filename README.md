@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/6860637/99370769-63e85580-28be-11eb-988d-936fd90a88d9.png" width="600">
 
 **Sala Studio** è un appuntamento live stream sullo sviluppo di videogiochi.  
-Le live hanno cadenza mensile sul [canale YouTube Crystal Bit](https://www.youtube.com/c/CrystalBit). 
+Gli argomenti della diretta li proponete voi! Per vedere come, leggete la sezione [Attività principali](https://github.com/crystal-bit/sala-studio/blob/master/README.md#Attivit%C3%A0-principali).
 
 ## Lista Episodi
 
