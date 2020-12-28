@@ -1,3 +1,19 @@
+# ⚠ Aggiornamento
+
+Salve a tutti,  
+a malincuore ho deciso di sospendere l'iniziativa Sala Studio.  
+
+- Se volete saperne di più ho scritto le motivazioni qui: https://crystal-bit.github.io/blog/2020/un-taglio-necessario-sala-studio/
+- Per quanto riguarda gli argomenti che sono stati proposti ma che non ho ancora affrontato, li tratterò con dei video dedicati sul canale YouTube.
+
+Invito comunque tutti sul [server Discord](https://discord.gg/SA6S2Db) dove potete darmi feedback 
+riguardo questa scelta e dove si può discutere e portare avanti i valori di questa iniziativa: 
+condivisione, collaborazione e crescita collettiva.
+
+Qui sotto lascio il README originale.
+
+---
+
 <img src="https://user-images.githubusercontent.com/6860637/99370769-63e85580-28be-11eb-988d-936fd90a88d9.png" width="600">
 
 **Sala Studio** è un appuntamento live stream sullo sviluppo di videogiochi.  
